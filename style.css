@@ -1,0 +1,168 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'Fuzzy Bubbles', sans-serif;
+}
+.navbar{
+    width:100%;
+    height:70px;
+    background-color:#071e26;
+    align-items:center;
+    justify-content:center;
+    position:fixed;
+}
+.navbar ul{
+    list-style-type: none;
+    display:inline-block;
+}
+.navbar ul li{
+    align-items:center;
+    display:flex;
+    float:left;
+    padding:20px;
+}
+.navbar ul li a{
+    text-decoration:none;
+
+}
+.navbar ul li a:hover{
+    color:#bea925;
+}
+.navbar ul li a:link{
+    color:white;
+}
+
+.navbar ul li a:visited{
+    color:#bea925;
+}
+.navbar img{
+    width:45px;
+    height:45px;
+}
+.landingPage{
+    padding:40px;
+    top:30px;
+    align-items:center;
+    display:flex;
+}
+
+.landingPage h1{
+    color:green;
+    font-size:100px;
+}
+.landingPage h2{
+    color:#96be25;
+    font-size: 50px;
+}
+.landingPage img{
+    width:47%;
+    height:47%;
+    top:40px;
+    position:relative;
+    
+}
+.footer{
+    background-color:#071e26;
+    height:80px;
+    width:100%;
+}
+#container{
+    width:100%;
+    height:100%;
+    display:flex;
+    align-items:center;
+    border:none;
+}
+#container img{
+    height:300px;
+    width:300px;
+}
+
+/*dom styling*/
+
+#container {
+    background-color: #292727;
+    color: #fff;
+    padding: 22px;
+    text-align: center;
+    display:flex;
+}
+
+#foodContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.foodCard{
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 3px 6px rgba(28, 26, 26, 0.1);
+    margin: 10px;
+    padding: 20px;
+    width: 300px;
+}
+
+.foodCard img {
+    max-width: 100%;
+    height: 40%;
+}
+
+#form {
+    float: inline-block;
+    padding-left: 900px;
+}
+
+  input[type="text"] {
+    padding: 13px;
+    border: 1px solid #ccc;
+    border-radius: 22px;
+  }
+#button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 5px 3px;
+    cursor: pointer;
+    border-radius: 22px;
+  }
+
+.order-button {
+    background-color: #2fa533;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    margin-top: 12px;
+    cursor: pointer;
+    float: left;
+    border-radius: 30px;
+}
+
+.order-button:hover {
+    background-color: #ffad1f;
+}
+
+footer {
+    background-color: #2f2d2d;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover {
+text-decoration: underline;
+}

@@ -1,0 +1,174 @@
+{
+    "menu":[
+      
+        { 
+          "id":1,
+          "name": "Vegan Caesar Salad",
+          "description": "Crisp romaine lettuce with vegan Caesar dressing and croutons.",
+          "price": 9.99,
+          "image": "./images/pngwing.com - 2023-10-13T114924.510.png",
+          "category":"veganFood"
+        },
+        {
+          "id":2,
+          "name": "Vegan Margherita Pizza",
+          "description": "Thin-crust pizza with vegan mozzarella, tomato sauce, and fresh basil.",
+          "price": 13.99,
+          "image": "./images/pngwing.com - 2023-10-13T115025.143.png",
+          "category":"veganFood"
+        },
+        {
+          "id":3,
+          "name": "Vegan Sushi Platter",
+          "description": "Assorted vegan sushi rolls with pickled ginger and wasabi.",
+          "price": 16.99,
+          "image": "./images/pngwing.com - 2023-10-13T115149.115.png",
+          "category":"veganFood"
+        },
+        {
+          "id":4,
+          "name": "Vegan Penne Alfredo",
+          "description": "Penne pasta with creamy vegan Alfredo sauce and roasted garlic.",
+          "price": 11.99,
+          "image": "./images/pngwing.com - 2023-10-13T115305.124.png",
+          "category":"veganFood"
+        },
+        {
+          "id":5,
+          "name": "Vegan Chocolate Cake",
+          "description": "Decadent chocolate cake with vegan chocolate ganache.",
+          "price": 7.99,
+          "image": "./images/pngwing.com - 2023-10-13T115411.515.png",
+          "category":"veganFood"
+        },
+      
+        {
+          "id":6,
+          "name": "Bruschetta",
+          "description": "Toasted baguette topped with fresh tomatoes, basil, and balsamic glaze.",
+          "price": 8.99,
+          "image": "./images/pngwing.com - 2023-10-13T115510.742.png",
+          "category":"appetizers"
+        },
+        {
+          "id":7,
+          "name": "Calamari Rings",
+          "description": "Crispy fried calamari rings with marinara sauce.",
+          "price": 10.99,
+          "image": "./images/pngwing.com - 2023-10-13T114924.510.png",
+          "category":"appetizers"
+        },
+        {
+          "id":8,
+          "name": "Mozzarella Sticks",
+          "description": "Crispy fried mozzarella sticks with a side of marinara sauce.",
+          "price": 8.99,
+          "image": "./images/pngwing.com - 2023-10-15T224456.614.png",
+          "category":"appetizers"
+        },
+        {
+          "id":9,
+          "name": "Spinach and Artichoke Dip",
+          "description": "Creamy dip with spinach, artichokes, and tortilla chips.",
+          "price": 9.99,
+          "image": "./images/pngwing.com - 2023-10-15T224525.871.png",
+          "category":"appetizers"
+        },
+        {
+          "id":10,
+          "name": "Stuffed Mushrooms",
+          "description": "Mushroom caps stuffed with garlic, cheese, and herbs.",
+          "price": 9.49,
+          "image": "./images/pngwing.com - 2023-10-15T224535.068.png",
+          "category":"appetizers"
+        },
+     
+      
+        {
+          "id":11,
+          "name": "Grilled Salmon",
+          "description": "Grilled salmon fillet with lemon butter sauce, served with steamed vegetables and rice.",
+          "price": 18.99,
+          "image": "./images/pngwing.com - 2023-10-15T224543.175.png",
+          "category":"mainCourse"
+        },
+        {
+          "id":12,
+          "name": "Ribeye Steak",
+          "description": "A juicy ribeye steak cooked to perfection, served with mashed potatoes and gravy.",
+          "price": 22.99,
+          "image": "./images/pngwing.com - 2023-10-15T224608.622.png",
+          "category":"mainCourse"
+        },
+        {
+          "id":13,
+          "name": "Chicken Alfredo",
+          "description": "Fettuccine pasta with grilled chicken and creamy Alfredo sauce.",
+          "price": 16.99,
+          "image": "./images/pngwing.com - 2023-10-15T224609.346.png",
+          "category":"mainCourse"
+        },
+        {
+          "id":14,
+          "name": "Veggie Stir-Fry",
+          "description": "Assorted vegetables stir-fried in a savory sauce served over rice.",
+          "price": 15.99,
+          "image": "./images/pngwing.com - 2023-10-15T224639.405.png",
+          "category":"mainCourse"
+        },
+        {
+          "id":15,
+          "name": "Pork Tenderloin",
+          "description": "Roasted pork tenderloin with apple compote and mashed sweet potatoes.",
+          "price": 19.99,
+          "image": "./images/pngwing.com - 2023-10-15T224656.039.png",
+          "category":"mainCourse"
+        },
+      
+        {
+          "id":16,
+          "name": "Tiramisu",
+          "description": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+          "price": 8.99,
+          "image": "./images/pngwing.com - 2023-10-15T225553.610.png",
+          "category":"desserts"
+        },
+
+        {
+          "id":17,
+          "name": "Key Lime Pie",
+          "description": "Tangy key lime pie with a graham cracker crust and whipped cream.",
+          "price": 7.99,
+          "image": "./images/pngwing.com - 2023-10-15T225619.965.png",
+          "category":"desserts"
+        },
+        {
+          "id":18,
+          "name": "Molten Chocolate Lava Cake",
+          "description": "Warm chocolate cake with a molten chocolate center, served with vanilla ice cream.",
+          "price": 9.49,
+          "image": "./images/pngwing.com - 2023-10-15T230007.326.png",
+          "category":"desserts"
+        },
+        {
+          "id":19,
+          "name": "New York Cheesecake",
+          "description": "Creamy and rich cheesecake with a graham cracker crust.",
+          "price": 6.99,
+          "image": "./images/pngwing.com - 2023-10-15T230016.635.png",
+          "category":"desserts"
+        },
+        {
+          "id":20,
+          "name": "Fruit Parfait",
+          "description": "Layers of fresh fruits and yogurt topped with granola.",
+          "price": 5.99,
+          "image": "./images/pngwing.com - 2023-10-15T230046.477.png",
+          "category":"desserts"
+        
+        }
+      
+    
+  ]
+  }
+  
